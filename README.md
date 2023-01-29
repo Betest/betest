@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yohan</h1>
 <h3 align="center">A passionate developer from Colombia</h3>
 
-- 🔭 I’m not currently working...
+- 🔭 I’m currently working...
 
 - 🌱 I’m currently learning **ReactJS, VueJS, Flutter**
 
