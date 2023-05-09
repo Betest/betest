@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working...
 
-- 🌱 I’m currently learning **ReactJS, VueJS, Flutter**
+- 🌱 I’m currently learning **VueJS, Flutter**
 
 - 👯 I’m looking to collaborate on **Angulas projects**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Betest/](https://github.com/Betest/)
 
-- 💬 Ask me about **angular, spring**
+- 💬 Ask me about **angular, spring, python, typescript**
 
 - 📫 How to reach me **yohan.tobon@hotmail.com**
 
