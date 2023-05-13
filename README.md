@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working...
 
-- 🌱 I’m currently learning **VueJS, Flutter**
+- 🌱 I’m currently learning **Actix Web(rust), Microfrontend, WebAssembly, VueJS, Flutter**
 
 - 👯 I’m looking to collaborate on **Angulas projects**
 
