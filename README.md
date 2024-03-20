@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Betest/](https://github.com/Betest/)
 
-- 💬 Ask me about **angular, spring, python, typescript**
+- 💬 Ask me about **javascript, java**
 
 - 📫 How to reach me **yohan.tobon@hotmail.com**
 
