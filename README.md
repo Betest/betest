@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Actix Web(rust), Microfrontend, WebAssembly, VueJS, Flutter**
 
-- 👯 I’m looking to collaborate on **Angulas projects**
-
 - 🤝 I’m looking for help with **Vue.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Betest/](https://github.com/Betest/)
